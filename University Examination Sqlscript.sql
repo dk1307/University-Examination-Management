@@ -1,1 +1,0 @@
-error: ORA-06502: PL/SQL: numeric or value error: invalid LOB locator specified: ORA-22275
