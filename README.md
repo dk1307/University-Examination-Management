@@ -1,5 +1,5 @@
 # University-Examination-Management
-Basic database management project. It is manage the details of Examination, Branches, Marks, Courses, Session.
+Basic database management project. It is manage the details of Examination, Branches, Subjects ,Marks, Courses, Session all related to University Exam.
 <html>
 <body>
 <ul>
